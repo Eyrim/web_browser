@@ -1,0 +1,14 @@
+A file to track my ideas and plan for the project:
+
+Technical ideas:
+
+
+Front end ideas:
+
+
+Feature ideas:
+  - A 'collections' feature (like in Edge)
+  - A feature to limit usage of different resources (like in Opera Gx)
+  - Some password manager built in? (Massive security implications)
+  - A *good* history manager (not buried in UI)
+  - An incognito mode which actually hides your traffic from other people on your network (E2E?)
