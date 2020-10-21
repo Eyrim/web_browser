@@ -1,0 +1,2 @@
+A stack overflow thread from 11 years ago which might help: 
+  - https://stackoverflow.com/questions/598841/how-to-get-started-building-a-web-browser#:~:text=The%20major%20rendering%20engines%20around%20are%3A%20Trident%3A%20developed,used%20in%20Chrome%2028%2B%2C%20Opera%2015%2B%2C%20webkit%20fork%3B
